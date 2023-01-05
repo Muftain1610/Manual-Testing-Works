@@ -1,12 +1,12 @@
 # Content    
-- [Introduction](https://github.com/Muftain1610/Test_case-Bug_report-Test_metrics-Mind_map-Projects/edit/main/README.md#introduction)
-- [Summary](https://github.com/Muftain1610/Test_case-Bug_report-Test_metrics-Mind_map-Projects/edit/main/README.md#summary) 
-- [Test Case Works for Meena Bazar](https://github.com/Muftain1610/Test_case-Bug_report-Test_metrics-Mind_map-Projects/edit/main/README.md#test-case-works-for-meena-bazar)  
-  - [Test Cases](https://github.com/Muftain1610/Test_case-Bug_report-Test_metrics-Mind_map-Projects/edit/main/README.md#test-cases)   
-  - [Bug Report](https://github.com/Muftain1610/Test_case-Bug_report-Test_metrics-Mind_map-Projects/edit/main/README.md#bug-report) 
-  - [Test Case Report](https://github.com/Muftain1610/Test_case-Bug_report-Test_metrics-Mind_map-Projects/edit/main/README.md#test-case-report)  
-  - [Test Metrics](https://github.com/Muftain1610/Test_case-Bug_report-Test_metrics-Mind_map-Projects/edit/main/README.md#test-metrics)    
-  - [Mind Map](https://github.com/Muftain1610/Test_case-Bug_report-Test_metrics-Mind_map-Projects/edit/main/README.md#mind-map)    
+- [Introduction](https://github.com/Muftain1610/Test_case-Bug_report-Test_metrics-Mind_map-Projects#introduction)
+- [Summary](https://github.com/Muftain1610/Test_case-Bug_report-Test_metrics-Mind_map-Projects#summary) 
+- [Test Case Works for Meena Bazar](https://github.com/Muftain1610/Test_case-Bug_report-Test_metrics-Mind_map-Projects#test-case-works-for-meena-bazar)  
+  - [Test Cases](https://github.com/Muftain1610/Test_case-Bug_report-Test_metrics-Mind_map-Projects#test-cases)   
+  - [Bug Report](https://github.com/Muftain1610/Test_case-Bug_report-Test_metrics-Mind_map-Projects#bug-report) 
+  - [Test Case Report](https://github.com/Muftain1610/Test_case-Bug_report-Test_metrics-Mind_map-Projects#test-case-report)  
+  - [Test Metrics](https://github.com/Muftain1610/Test_case-Bug_report-Test_metrics-Mind_map-Projects#test-metrics)    
+  - [Mind Map](https://github.com/Muftain1610/Test_case-Bug_report-Test_metrics-Mind_map-Projects#mind-map)    
 
 # Introduction
 This document explains how I have written Test Cases, Bug Report, Test Case Report, Test Metrics and Mind Maps on e-commerce websites. 
